@@ -1,0 +1,4 @@
+.DS_Store
+*.xcuserstate
+*.xcworkspacedata
+/.swiftpm/xcode/xcuserdata/wellington.marthas.xcuserdatad/xcschemes/xcschememanagement.plist
